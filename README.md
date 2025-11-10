@@ -9,3 +9,10 @@ It demonstrates the use of version control, branching, and change management usi
 
 ##  Objective
 To apply the principles of software configuration management through practical GitHub tasks.
+
+## 🏆 Best Practices in Software Configuration Management
+- Use meaningful commit messages.
+- Keep repositories organized and up to date.
+- Work on separate branches for new features.
+- Test and review changes before merging.
+- Document all major changes clearly.
